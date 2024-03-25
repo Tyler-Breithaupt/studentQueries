@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/bin/Debug/net7.0/studentQueries
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/bin/Debug/net7.0/studentQueries.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/bin/Debug/net7.0/studentQueries.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/bin/Debug/net7.0/studentQueries.dll
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/bin/Debug/net7.0/studentQueries.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/obj/Debug/net7.0/studentQueries.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/obj/Debug/net7.0/studentQueries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/obj/Debug/net7.0/studentQueries.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/obj/Debug/net7.0/studentQueries.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/obj/Debug/net7.0/studentQueries.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/obj/Debug/net7.0/studentQueries.dll
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/obj/Debug/net7.0/refint/studentQueries.dll
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/obj/Debug/net7.0/studentQueries.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/obj/Debug/net7.0/studentQueries.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/studentQueries/obj/Debug/net7.0/ref/studentQueries.dll
